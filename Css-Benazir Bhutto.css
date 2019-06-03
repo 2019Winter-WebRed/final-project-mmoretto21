@@ -1,0 +1,76 @@
+/*
+*Mia Moretto
+Class work
+Css-template.css
+*/
+
+/* the universal selector */
+*{
+margin: 0;
+padding: 0;
+}
+}
+/* Body attributes here */
+
+body {
+    width: 850px ;
+    background-color: gainsboro;
+    margin: 15px auto;
+    border: 1px solid black;
+    background-color: floralwhite;
+}
+
+h1 {
+    background-color: floralwhite;
+    
+    padding: 10px;
+}
+
+header {
+    border-bottom: 2px solid black;
+    text-align: center;
+    background-color: floralwhite;
+    
+}
+
+#SidebarA {
+    width: 20%;
+    height: 400px;
+    float:left ;
+    border-right: 2px solid black;
+    background-color:floralwhite;
+}
+
+main {
+    width: 57%;
+    height: 400px;
+    float: left;
+background-color: floralwhite;
+}
+
+#SidebarB {
+    width: 20%;
+    height: 400px;
+    float: right;
+    border-left: 2px solid black;
+    background-color: floralwhite;
+}
+footer {
+    clear: both;
+    border-top: 2px solid black;
+    background-color: floralwhite;
+}
+
+#educ{color:aquamarine;   
+}
+
+
+
+
+
+
+
+
+
+
+
